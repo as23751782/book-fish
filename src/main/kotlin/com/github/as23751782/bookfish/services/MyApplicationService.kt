@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.as23751782.bookfish.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.as23751782.bookfish.MyBundle
 
 class MyApplicationService {
 
